@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-menu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 40px 60px;
+
+}
+
+
+.menu li{
+    display: inline-block;
+    padding-left: 60px;
+
+}
+#slider{
+    width: 100%;
+    height:400px;
+}
+.prev{
+    position: fixed;
+    top:280px;
+    left:0;
+
+}
+.next{
+   
+        position: fixed;
+        top:280px;
+        right:0;
+        
+  
+}
