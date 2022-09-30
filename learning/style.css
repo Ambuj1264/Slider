@@ -23,14 +23,14 @@
     height:400px;
 }
 .prev{
-    position: fixed;
+    position: absolute;
     top:280px;
     left:0;
 
 }
 .next{
    
-        position: fixed;
+        position: absolute;
         top:280px;
         right:0;
         
